@@ -1,10 +1,10 @@
 *{
-padding: opx;
-margin: 0px;
+  padding: opx;
+  margin: 0px;
 }
-<h1>{
-font-color: lightgreen;
+h1{
+  color: lightgreen;
 }
-<p>{
-font-color: pink;
+p{
+  color: pink;
 }
